@@ -4,7 +4,7 @@ The goal was to predict the probability that an online credit card transaction i
 
 For online credit card transactions, there are features associated with the transaction or credit card holder and features that can be engineered from transaction histories. 
 
-Features associated with the transaction: 
+#Features associated with the transaction: 
 
 Date and time
 Transaction amount
